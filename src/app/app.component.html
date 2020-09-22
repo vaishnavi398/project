@@ -1,0 +1,40 @@
+<html>
+    <head>
+        <tittle>
+            Vaishnavi's Art Gallery
+        </tittle>
+  
+
+</head>
+<!--Header-->
+    <nav class="navbar" style="background:#0B1183;">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <h2 style='color:white; padding-left:30px;'><img src="assets/index_icon.png" style="height:65px; width:60px;">
+                {{heading}}</h2> 
+          </div>
+         <ul class="nav navbar-nav navbar-right fontD" >
+      <li><a routerLink="/home" style="color:#B957BA;font-size: 15px">Home</a> </li> 
+      <li><a routerLink="/login" routerLinkActive="active" style="color:#B957BA;font-size: 15px">Login</a></li> 
+      <li> <a routerLink="/registration" routerLinkActive="active" style="color:#B957BA;font-size: 15px">Registration</a></li>  
+      <li> <a routerLink="/services" routerLinkActive="active" style="color:#B957BA;font-size: 15px">Services</a> </li> 
+      <li> <a routerLink="/contact-us" routerLinkActive="active" style="color:#B957BA;font-size: 15px">ContactUs</a> </li> 
+      <li> <a routerLink="/admin" routerLinkActive="active" style="color:#B957BA;font-size: 15px">Admin Panel</a> </li> 
+      
+        </ul>
+      </div>
+      </nav>
+     
+      <!--Footer-->         
+<nav class="navbar navbar-default navbar-bottom navbar-fixed-bottom" style="height: 10%;;background:#0B1183">
+        <div class="container text-center">
+            <ul class="nav navbar-nav navbar-left ">
+           <h5 style="margin-left:500px;"><a style="color: white;"> Copy Right 2020</a></h5>			 
+                
+          </ul>
+      </div>
+    </nav>
+</html>
+
+<!--routing view-->
+<router-outlet></router-outlet>

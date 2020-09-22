@@ -1,0 +1,36 @@
+<div>
+        <b style="margin-left:5%;color:#0B1183;">ART GALLERY</b>
+        <p class="a" style="margin-top:10px;    margin-left: 5%;">
+        The main feature of VAISHNAVI'S ART GALLERY is to offer a wide range of works of art from the 
+        seventeenth century to the present days.<br>
+        Modern and contemporary art are the main branches of the gallery. <br>The importance of the artists is world class and much attention is paid to the quality of the exhibits.<br>
+        Each work is accompanied by an expertise or a certificate of authenticity.<br>
+        In which means it is legally registered in the archive of the artist.
+        It will be our pleasure to satisfy special requests from new clients.
+        </p>
+      </div>
+      <div style="margin-top: 9%;margin-left: 10%" >
+          <video controls loop style="height: 200px;"> 
+              <source src="assets/star_galaxy_big_bang_rays_787.mp4">
+          </video>
+          <video controls loop style="width: 27%;height: 200px;margin-left:20px"> 
+                <source src="assets/galaxy_black_hole_planet_spiral_621.mp4">
+            </video>
+            <video controls loop style="height: 200px;    width: 27%;margin-left:20px"> 
+                    <source src="assets/water.mp4">
+                </video>
+      </div>
+
+<div class="card" *ngFor="let paint of paint" style="margin-left: 4%;">
+        <div style="display: inline-block">
+            <img src="{{paint.img}}" style="width: 100%;height: 300px;" >
+          <h4 style="margin-left: 5%;width: 100%;"><b>{{paint.Name}}</b></h4>
+          <p  class="data">Artist {{paint.artist}}</p>
+          <p  class="data" >Year {{paint.year}}</p>
+          <p  class="data" >Price {{paint.price}}</p>
+          <p  class="infocss"> {{paint.info}}</p>					
+          <input class="btn btn-success btncss" type="button" value="BUY" /><br>
+        </div>     
+    </div>
+
+    <br><br><br><br><br><br><br><br><br><br>

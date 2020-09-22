@@ -1,0 +1,183 @@
+[
+    {
+      "id" : "1",
+      "Name" : "Rajasthani women",
+      "img" : "../../assets/p1.jpg",
+      "artist":"Alfreds Futterkiste",
+      "price":"$90",
+      "info":"The Women can fight by her own!",
+      "year":"1990"
+    },
+    {
+      "id" : "2",
+        "Name" : "Alone Time",
+        "img" : "assets/p2.jpg",
+        "artist":"Bail Baller",
+        "price":"$90",
+        "info":"The time where we can explore!",
+        "year":"2000"
+    },
+    {
+      "id" : "3",
+        "Name" : "Krishna",
+        "img" : "assets/p3.jpg",
+        "artist":"Gopal Haridas",
+        "price":"$100",
+        "info":"The Lela of Loard Krinshna !",
+        "year":"2005"
+    },
+    {
+      "id" : "4",
+      "Name" : "Gruhini",
+      "img" : "assets/p4.jpg",
+      "artist":"Jyoti Pande",
+      "price":"$100",
+      "info":"To Enjoy perhabs the work !",
+      "year":"2000"
+    },
+    {
+        "id" : "5",
+        "Name" : "Western Valley",
+        "img" : "assets/p5.jpg",
+        "artist":"Ernst Handel",
+        "price":"$100",
+        "info":"The flowing water tells Go On!",
+        "year":"2001"
+      },
+      {
+        "id" : "6",
+        "Name" : "The Nevs",
+        "img" : "assets/p6.jpg",
+        "artist":"Rima Gupta",
+        "price":"$100",
+        "info":"The imaginary Nevs carried out !",
+        "year":"1990"
+      },
+      {
+        "id" : "7",
+        "Name" : "MoonLight",
+        "img" : "assets/p7.jpg",
+        "artist":"John Well",
+        "price":"$100",
+        "info":"The power to light the world!",
+        "year":"1990"
+      },
+      {
+        "id" : "8",
+        "Name" : "Kerela Dairy",
+        "img" : "assets/p8.jpg",
+        "artist":"Tirda Reddy",
+        "price":"$100",
+        "info":"The Black Water House Bloats!",
+        "year":"2009"
+      },
+      {
+        "id" : "9",
+        "Name" : "Childhood",
+        "img" : "assets/p9.jpg",
+        "artist":"jamans Handel",
+        "price":"$100",
+        "info":"The memories of little things!",
+        "year":"2000"
+      },
+
+      {
+        "id" : "10",
+        "Name" : "Feel the Eyes",
+        "img" : "assets/d1.jpg",
+        "artist":"Maria",
+        "price":"$100",
+        "info":"Eyes which speaks more!",
+        "year":"2004"
+      },
+      {
+        "id" : "11",
+        "Name" : "Albert",
+        "img" : "assets/s4.jpg",
+        "artist":"Mike ",
+        "price":"$200",
+        "info":"The Person changed the living!",
+        "year":"2006"
+      },
+      {
+        "id" : "12",
+        "Name" : "Digital",
+        "img" : "assets/d2.jpg",
+        "artist":"Daniel ",
+        "price":"$130",
+        "info":"The Digital world!",
+        "year":"2017"
+      },
+      {
+        "id" : "13",
+        "Name" : "Hand Carving",
+        "img" : "assets/d3.jpg",
+        "artist":"Sukhada",
+        "price":"$130",
+        "info":"The Art of Making Clays!",
+        "year":"2003"
+      },
+      {
+        "id" : "14",
+        "Name" : "Robotics",
+        "img" : "assets/d4.jpg",
+        "artist":"Ramanum",
+        "price":"$150",
+        "info":"The machine can do anything!",
+        "year":"2019"
+      },
+      {
+        "id" : "15",
+        "Name" : "Ali Mart",
+        "img" : "assets/d5.jpg",
+        "artist":"Mikhal",
+        "price":"$300",
+        "info":"The Queen of Flowers!",
+        "year":"1900"
+      },
+      {
+        "id" : "16",
+        "Name" : "Ice-House",
+        "img" : "assets/d6.jpg",
+        "artist":"Chris ",
+        "price":"$200",
+        "info":"The imagined House in Ice City!",
+        "year":"2001"
+      },
+      {
+        "id" : "17",
+        "Name" : "Blosum Flower",
+        "img" : "assets/d7.jpg",
+        "artist":"Paul ",
+        "price":"$160",
+        "info":"The power to light the world!",
+        "year":"1990"
+      },
+      {
+        "id" : "18",
+        "Name" : "Lady Meera",
+        "img" : "assets/d8.jpg",
+        "artist":"Meera Singh",
+        "price":"$100",
+        "info":"The Beauty has the galmare!",
+        "year":"2000"
+      },
+      {
+        "id" : "19",
+        "Name" : "Slightness",
+        "img" : "assets/d9.jpg",
+        "artist":"Michael ",
+        "price":"$190",
+        "info":"The Simplicity is more than makup!",
+        "year":"2000"
+      },
+      {
+        "id" : "20",
+        "Name" : "Queen Savi",
+        "img" : "assets/s5.jpg",
+        "artist":"ABC",
+        "price":"$400",
+        "info":"The beauty beyoud imagination!",
+        "year":"2020"
+      }
+]

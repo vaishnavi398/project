@@ -1,0 +1,28 @@
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 47%;
+    transform: translate(-50%, -50%);
+  }
+  .font{
+      color:#7D0552;
+      font-size:30;
+      font-weight:700;
+  }
+  .c {
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  .bottom-left {
+    position: absolute;
+    bottom: -72px;
+    left: 16px;
+  }
+
+  .cnt{
+    margin-top: -21PX;
+  }

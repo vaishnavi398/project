@@ -1,0 +1,22 @@
+<!--input class="top-right" [(ngModel)]="searchText" placeholder="search text goes here"-->
+
+<div class="top-right">
+        <input class="form-control" type="text" name="search" [(ngModel)]="searchText" 
+        placeholder="search text goes here">
+      </div>
+
+<div class="card" *ngFor="let paint of paint | filter : searchText" style="margin-left: 4%;">
+        <div style="display: inline-block">
+            <img src="{{paint.img}}" style="width: 100%;height: 300px;" >
+          <h4 style="margin-left: 5%;width: 100%;"><b>{{paint.Name}}</b></h4>
+          <p  class="data">Artist {{paint.artist}}</p>
+          <p  class="data" >Year {{paint.year}}</p>
+          <p  class="data" >Price {{paint.price}}</p>
+          <p  class="infocss"> {{paint.info}}</p>					
+          <input class="btn btn-success btncss" type="button" value="BUY" /><br>
+
+        </div>
+    
+    </div>
+
+    <br><br><br><br><br><br><br><br><br><br>
